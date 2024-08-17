@@ -1,6 +1,9 @@
 # ASCII Video Converter
 
-This Python project allows you to convert video frames into ASCII art and display the resulting ASCII video in the terminal. It uses the `ascii-magic` library to convert images to ASCII and `cv2` to extract frames from a video file. The video can be played back in the terminal using symbols and dots.
+This Python project lets you convert video frames into ASCII art and display the resulting ASCII video in the terminal. It uses the `ascii-magic` library to convert images to ASCII and `cv2` to extract frames from a video file. The video can be played back in the terminal using symbols and dots.
+
+<img src="https://github.com/harshkasat/ascii-video-converter/blob/main/image.jpg" alt="Gen AI Image" width="500" style="aspect-ratio: 16/9;">
+
 
 ## Repository Name
 
@@ -21,7 +24,7 @@ This Python project allows you to convert video frames into ASCII art and displa
 - `main.py`: The main script to run the project.
 - `ConvertAscii`: A class to convert images to ASCII.
 - `Display`: A class to handle ASCII video playback.
-- `ExtractFrame`: A class to extract frames from a video.
+- `ExtractFrame`: A class that extracts frames from a video.
   
 ## Installation
 
@@ -45,7 +48,7 @@ This Python project allows you to convert video frames into ASCII art and displa
 
 ## Usage
 
-To use the tool, simply provide the path to a video file as a command-line argument:
+To use the tool, provide the path to a video file as a command-line argument:
 
 ```bash
 python main.py path_to_video.mp4
