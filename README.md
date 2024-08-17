@@ -27,7 +27,7 @@ This Python project allows you to convert video frames into ASCII art and displa
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ascii-video-converter.git
+    git clone https://github.com/harshkasat/ascii-video-converter.git
     cd ascii-video-converter
     ```
 
